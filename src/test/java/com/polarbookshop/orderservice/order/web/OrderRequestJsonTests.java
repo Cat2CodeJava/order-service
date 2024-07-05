@@ -1,6 +1,5 @@
 package com.polarbookshop.orderservice.order.web;
 
-import com.polarbookshop.orderservice.order.domain.OrderRequest;
 import org.junit.jupiter.api.Test;
 
 import org.springframework.beans.factory.annotation.Autowired;

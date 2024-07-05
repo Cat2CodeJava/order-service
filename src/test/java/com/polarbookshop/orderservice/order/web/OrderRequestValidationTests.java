@@ -2,7 +2,6 @@ package com.polarbookshop.orderservice.order.web;
 
 import java.util.Set;
 
-import com.polarbookshop.orderservice.order.domain.OrderRequest;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.Validation;
 import jakarta.validation.Validator;

@@ -1,5 +1,6 @@
 package com.polarbookshop.orderservice.order.domain;
 
+import com.polarbookshop.orderservice.order.web.OrderRequest;
 import jakarta.validation.Valid;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;
