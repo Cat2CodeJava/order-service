@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: cat2codejava/config-service
+  IMAGE_NAME: cat2codejava/order-service
   VERSION: latest
 
 jobs:
