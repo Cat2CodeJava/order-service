@@ -24,6 +24,10 @@ repositories {
 	mavenCentral()
 }
 
+springBoot {
+	buildInfo()
+}
+
 configurations {
 	compileOnly {
 		extendsFrom annotationProcessor
